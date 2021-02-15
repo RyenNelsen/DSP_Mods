@@ -1,0 +1,9 @@
+{
+  "name": "ScheduledSave",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/RyenNelsen/DSP_Mods",
+  "description": "Want a little more control with your saves? Want to have a persistent save automatically done for you? Want to look back on your base as it evolves? You are in the right place!",
+  "dependencies": [
+      "xiaoye97-BepInEx-5.4.5"
+  ]
+}

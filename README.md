@@ -9,3 +9,5 @@ You will need to create a `Libraries` folder with the following files:
 - BepInEx.Harmony.dll
 - UnityEngine.CoreModule.dll
 - UnityEngine.dll
+- UnityEngine.UI.dll
+- UnityEngine.UIModule.dll
