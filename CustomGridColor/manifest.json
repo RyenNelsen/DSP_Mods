@@ -1,0 +1,9 @@
+{
+  "name": "CustomGridColors",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/RyenNelsen/DSP_Mods",
+  "description": "Customize the grid colors while building, destructing, and laying foundation.",
+  "dependencies": [
+      "xiaoye97-BepInEx-5.4.5"
+  ]
+}
